@@ -6,4 +6,4 @@ dependencies:
 - pandas
 - ipywidgets
 - jupyterlab>=3.1
-- voila>=0.2.11
+- voila
