@@ -1,8 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangyf113/testvoilawork699/main?urlpath=voila%2Frender%2FOutput%20(1).ipynb)
 
 
-<h1 align="center">Hi 👋, I'm Allison</h1>
-<h3 align="center">This project is the final result for Capstone SIADS 699.</h3>
+<h1 align="center">Capstone Project - CFPB Complaints Analysis </h1>
+<h3 align="center">This project is the final result for course Capstone SIADS 699.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
