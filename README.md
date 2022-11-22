@@ -4,7 +4,7 @@
 <h1 align="center">CFPB Complaints Analysis </h1>
 <h3 align="left">This project is the final result for course Capstone SIADS 699.</h3>
 
-<h3 align="left">Data Source:https://www.consumerfinance.gov/data-research/consumer-complaints/</h3>
+<h4 align="left">Data Source:https://www.consumerfinance.gov/data-research/consumer-complaints/</h4>
 <p align="left">
 </p>
 
@@ -14,7 +14,6 @@
 
 # Project Name
 > CFPB Complaints Analysis
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -31,11 +30,10 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The project focuses on CFPB complaint and the data is made publicly available through the CFPB website. The CFPB collects the complaints, then sends them to the financial services companies for a response. We are interested in analyzing the complaints over time, company responses, and ongoing trends in the complaint data.
+
+- For this project, we focused on topic extraction from complaints narratives.
+- With the topic modelling, and the final output interface, the intention is to help CFPB to accelerate the complaint process, and be able to track topic models trend and patterns in complaint narrative. And with the interface, it is easy to predict the main topic on any new complaint narrative.
 
 
 ## Technologies Used
@@ -70,8 +68,7 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
+Project is: _complete_ 
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
