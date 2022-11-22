@@ -2,7 +2,7 @@
 
 
 <h1 align="center">CFPB Complaints Analysis </h1>
-<h3 align="center">This project is the final result for course Capstone SIADS 699.</h3>
+<h3 align="left">This project is the final result for course Capstone SIADS 699.</h3>
 
 <h3 align="left">Data Source:https://www.consumerfinance.gov/data-research/consumer-complaints/</h3>
 <p align="left">
@@ -10,7 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </p>
-
 
 
 # Project Name
