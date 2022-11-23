@@ -1,13 +1,3 @@
-name: testvoilawork
-channels:
-- conda-forge
-dependencies:
-- matplotlib-base
-- pandas
-- ipywidgets
-- jupyterlab>=3.1
-- voila
-- gensim
-- nltk
-- spacy
-- pyLDAvis
+version https://git-lfs.github.com/spec/v1
+oid sha256:be3c322378f24a8a2116395c5cab69ad16f709da74561bc94a9faa9e143cf584
+size 159
