@@ -1,4 +1,3 @@
---[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangyf113/testvoilawork699/main?urlpath=voila%2Frender%2FOutput%20(1).ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangyf113/Capstone_699_fangyf/main?urlpath=voila%2Frender%2FOutput%20Interface.ipynb)
 
 <h1 align="center">CFPB Complaints Analysis </h1>
